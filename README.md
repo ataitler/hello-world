@@ -1,5 +1,6 @@
 # hello-world
-Hello world repository to lean using GitHub
+
+Hello humans!
 
 sdfasdfasdf
 asdfasdfasdfasdfasdfasdfasdfasdf
